@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": 1347101803,
+	"installed_packages":
+	[
+		"Alignment",
+		"LESS",
+		"LESS-build",
+		"LiveReload",
+		"LoremIpsum",
+		"LoremPixel",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Nexus",
+		"Theme - Nil",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"View In Browser",
+		"ZenCoding"
+	]
+}

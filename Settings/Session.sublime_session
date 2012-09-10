@@ -1,0 +1,721 @@
+{
+	"folder_history":
+	[
+		"/D/local_sites/e-vasion",
+		"/D/local_sites/SP Avocats",
+		"/D/local_sites/essai_design",
+		"/D/local_sites/twitter-bootstrap-857b8fb"
+	],
+	"last_window_id": 7,
+	"settings":
+	{
+		"new_window_height": 842.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"l",
+						"LESS"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"br",
+						"Preferences: Browse Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"file se",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"bro",
+						"Preferences: Browse Packages"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"prefere",
+						"Preferences: Settings - User"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lorem",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Preferences: Browse Packages"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"",
+						"View: Toggle Minimap"
+					]
+				],
+				"width": 522.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/D/local_sites/SP Avocats/base.php",
+				"/D/local_sites/e-vasion/index.html",
+				"/D/Projets Sublime/e-vasion.sublime-project",
+				"/D/Downloads/Rxdzz.txt",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/local_sites/e-vasion/INDEX",
+				"/D/local_sites/essai_design/docs/examples.html",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/D/local_sites/essai_design/less/bonjjour",
+				"/D/local_sites/essai_design/docs/index.html",
+				"/D/local_sites/essai_design/docs/scaffolding.html",
+				"/D/local_sites/essai_design/index.html",
+				"/D/wamp/www/SPAvocats/index.php",
+				"/D/local_sites/essai_design/docs/assets/css/bootstrap-responsive.css",
+				"/D/local_sites/essai_design/docs/assets/css/bootstrap.css",
+				"/D/local_sites/essai_design/less/accordion.less",
+				"/D/local_sites/essai_design/less/bootstrap.less",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/pixum.sublime-snippet",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/D/local_sites/essai_design/docs/components.html",
+				"/D/local_sites/essai_design/less/carousel.less",
+				"/D/local_sites/essai_design/less/buttons.less",
+				"/D/local_sites/essai_design/less/less.js",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/docs.css",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/bootstrap-responsive.css",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/bootstrap.css",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/js/google-code-prettify/prettify.css",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/js/google-code-prettify/prettify.js",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/index.html",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/Default (Windows).sublime-keymap",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/package-metadata.json",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowserCommand.py",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/README.md",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowserCommand.pyc",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.py",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/package-metadata.json",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/README.md",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.pyc",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremIpsum/Default (Windows).sublime-keymap",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremIpsum/Main.sublime-menu",
+				"/D/local_sites/twitter-bootstrap-857b8fb/package.json",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/examples.html",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
+				"/D/local_sites/twitter-bootstrap-857b8fb/css/bootstrap.css",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Preferences.sublime-settings",
+				"/D/local_sites/twitter-bootstrap-857b8fb/less/accordion.less",
+				"/D/local_sites/twitter-bootstrap-857b8fb/less/alerts.less",
+				"/D/local_sites/twitter-bootstrap-857b8fb/js/bootstrap-alert.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"C:\\Program Files\\Sublime Text 2"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"view",
+					"\"\n",
+					"f",
+					"	\n",
+					"lorem\n",
+					"\"\n",
+					"assets/",
+					"browser",
+					"ips",
+					"\"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"docs/assets/",
+					"docs/assets"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"docs/index.html"
+					],
+					[
+						"sff",
+						"docs/scaffolding.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/D/Projets Sublime/e-vasion.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 260.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1007.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"l",
+						"LESS"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 363.0,
+				"selected_items":
+				[
+					[
+						"fet",
+						"Fetch"
+					],
+					[
+						"fe",
+						"Fetch: Manage remote files"
+					],
+					[
+						"",
+						"Fetch"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"sni",
+						"Snippet: <?php else: ?>"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"br",
+						"Preferences: Browse Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"file se",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"bro",
+						"Preferences: Browse Packages"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"prefere",
+						"Preferences: Settings - User"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lorem",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Preferences: Browse Packages"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+				"/D/local_sites/e-vasion/initializr/index.html",
+				"/D/local_sites/e-vasion/initializr/js/plugins.js",
+				"/D/local_sites/template/initializr/js/vendor/bootstrap.js",
+				"/D/local_sites/e-vasion/initializr/js/main.js",
+				"/D/local_sites/e-vasion/initializr/css/antiskype.css",
+				"/D/local_sites/e-vasion/bootstrap/less/reset.less",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
+				"/D/local_sites/e-vasion/bootstrap/docs/getting-started.html",
+				"/D/local_sites/e-vasion/bootstrap/less/bootstrap.less",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive.less",
+				"/D/local_sites/e-vasion/initializr/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-utilities.less",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-navbar.less",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-768px-979px.less",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-767px-max.less",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-1200px-min.less",
+				"/D/local_sites/e-vasion/bootstrap/css/bootstrap.css",
+				"/D/local_sites/e-vasion/bootstrap/docs/examples/starter-template.html",
+				"/D/local_sites/e-vasion/bootstrap/docs/base-css.html",
+				"/D/local_sites/e-vasion/bootstrap/docs/assets/css/bootstrap-responsive.css",
+				"/D/local_sites/e-vasion/bootstrap/docs/assets/css/bootstrap.css",
+				"/D/local_sites/e-vasion/bootstrap/less/mixins.less",
+				"/D/local_sites/e-vasion/bootstrap/docs/examples/fluid.html",
+				"/D/local_sites/e-vasion/bootstrap/docs/examples/hero.html",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/html.sublime-snippet",
+				"/D/local_sites/e-vasion/index.html",
+				"/D/local_sites/e-vasion/index2.html",
+				"/D/local_sites/e-vasion/bootstrap/less/close.less",
+				"/D/local_sites/e-vasion/bootstrap/index2.html",
+				"/D/local_sites/e-vasion/bootstrap/index.html",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/HTML/html.sublime-snippet",
+				"/D/Projets Sublime/e-vasion.sublime-project",
+				"/D/local_sites/SP Avocats/index-en.php",
+				"/D/local_sites/SP Avocats/index.php",
+				"/D/local_sites/SP Avocats/style/style.css",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/D/local_sites/SP Avocats/base.php",
+				"/D/Downloads/Rxdzz.txt",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/local_sites/e-vasion/INDEX",
+				"/D/local_sites/essai_design/docs/examples.html",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/D/local_sites/essai_design/less/bonjjour",
+				"/D/local_sites/essai_design/docs/index.html",
+				"/D/local_sites/essai_design/docs/scaffolding.html",
+				"/D/local_sites/essai_design/index.html",
+				"/D/wamp/www/SPAvocats/index.php",
+				"/D/local_sites/essai_design/docs/assets/css/bootstrap-responsive.css",
+				"/D/local_sites/essai_design/docs/assets/css/bootstrap.css",
+				"/D/local_sites/essai_design/less/accordion.less",
+				"/D/local_sites/essai_design/less/bootstrap.less",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/pixum.sublime-snippet",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/D/local_sites/essai_design/docs/components.html",
+				"/D/local_sites/essai_design/less/carousel.less",
+				"/D/local_sites/essai_design/less/buttons.less",
+				"/D/local_sites/essai_design/less/less.js",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/docs.css",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/bootstrap-responsive.css",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/bootstrap.css",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/js/google-code-prettify/prettify.css",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/js/google-code-prettify/prettify.js",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/index.html",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/Default (Windows).sublime-keymap",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/package-metadata.json",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowserCommand.py",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/README.md",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowserCommand.pyc",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.py",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/package-metadata.json",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/README.md",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.pyc",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremIpsum/Default (Windows).sublime-keymap",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremIpsum/Main.sublime-menu",
+				"/D/local_sites/twitter-bootstrap-857b8fb/package.json",
+				"/D/local_sites/twitter-bootstrap-857b8fb/docs/examples.html",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
+				"/D/local_sites/twitter-bootstrap-857b8fb/css/bootstrap.css",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Preferences.sublime-settings",
+				"/D/local_sites/twitter-bootstrap-857b8fb/less/accordion.less",
+				"/D/local_sites/twitter-bootstrap-857b8fb/less/alerts.less",
+				"/D/local_sites/twitter-bootstrap-857b8fb/js/bootstrap-alert.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"C:\\Program Files\\Sublime Text 2"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"png",
+					"view",
+					"\"\n",
+					"f",
+					"	\n",
+					"lorem\n",
+					"\"\n",
+					"assets/",
+					"browser",
+					"ips",
+					"\"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"docs/assets/",
+					"docs/assets"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,848,34,8,986",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"docs/index.html"
+					],
+					[
+						"sff",
+						"docs/scaffolding.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"av",
+						"/D/Projets Sublime/SP Avocats.sublime-project"
+					],
+					[
+						"",
+						"/D/Projets Sublime/e-vasion.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 262.0,
+			"status_bar_visible": true,
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/Projets Sublime/e-vasion.sublime-project",
+			"/D/Projets Sublime/SP Avocats.sublime-project"
+		]
+	}
+}
