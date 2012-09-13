@@ -383,6 +383,46 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 410,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projet e-vasion.sublime-project",
+					"settings":
+					{
+						"buffer_size": 67,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 843,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 855,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+					"settings":
+					{
+						"buffer_size": 141,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -508,11 +548,13 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/Projets Sublime/e-vasion.sublime-workspace",
 				"/D/local_sites/e-vasion/projet e-vasion.sublime-workspace",
 				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 				"/D/local_sites/ABAvocat/missing.html",
 				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 				"/D/local_sites/e-vasion/index.html",
 				"/D/local_sites/e-vasion/bootstrap/less/tests/navbar.html",
 				"/D/local_sites/e-vasion/bootstrap/less/tests/forms.html",
@@ -520,7 +562,6 @@
 				"/D/Projets Sublime/e-vasion.sublime-project",
 				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
 				"/D/local_sites/e-vasion/bootstrap/js/tests/index.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
 				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
 				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
 				"/D/local_sites/e-vasion/initializr/js/plugins.js",
@@ -658,8 +699,143 @@
 			"groups":
 			[
 				{
+					"selected": 4,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+							"settings":
+							{
+								"buffer_size": 410,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "projet e-vasion.sublime-project",
+							"settings":
+							{
+								"buffer_size": 67,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "index.html",
+							"settings":
+							{
+								"buffer_size": 843,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										601,
+										601
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 855,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										855,
+										855
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+							"settings":
+							{
+								"buffer_size": 141,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										132,
+										132
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],

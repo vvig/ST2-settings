@@ -25,25 +25,15 @@ All commands available for files and folders(when applicable) .
 
 F12 key allows you to open the current file in browser.
 If you want to add a url to that feature:
-
- * Open the Settings folder: .../Sublime Text 2/Packages/../Settings/
- * Create a file called "SideBarEnhancements.json"
- * Add your paths and URLs with the following structure:
+Right click the sidebar -> project -> edit project
+There add the new preferences:
 
 ```
-{
-	"S:\\www\\domain.tld":{
-		"url_testing":"http://testing",
-		"url_production":"http://domain.tld"
-	},
-	"C:\\Users\\luna\\some\\domain2.tld":{
-		"url_testing":"http://testing1",
-		"url_production":"http://productiontld2"
-	}
-}
+, "url":"http://localhost/"
+, "url_production":"http://domain.test/"
 ```
 
-```url_testing``` allows you to set the url of your local server, opened via F12
+```url``` allows you to set the url of your local server, opened via F12
 ```url_production``` allows you to set the url of your production server, opened via ALT+F12
 
 # Todo

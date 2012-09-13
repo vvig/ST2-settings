@@ -6,7 +6,7 @@
 	"packages":
 	{
 		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
-		"twitter_bootstrap": "https://github.com/twitter/bootstrap/zipball/master",
-		"initializr": "https://github.com/vvig/initializr/zipball/master"
+		"initializr": "https://github.com/vvig/initializr/zipball/master",
+		"twitter_bootstrap": "https://github.com/twitter/bootstrap/zipball/master"
 	}
 }
