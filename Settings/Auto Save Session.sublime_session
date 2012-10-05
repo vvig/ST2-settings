@@ -6,16 +6,80 @@
 		"/D/local_sites/essai_design",
 		"/D/local_sites/twitter-bootstrap-857b8fb"
 	],
-	"last_window_id": 8,
+	"last_window_id": 10,
 	"settings":
 	{
-		"new_window_height": 782.0,
+		"new_window_height": 786.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"paddin",
+						"padding-bottom"
+					],
+					[
+						"padding-",
+						"padding-top:   (property)"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"li",
+						"lighten"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"font-",
+						"font-size:   (property)"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"fo",
+						"form"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"in",
+						"inline"
+					],
 					[
 						"l",
 						"LESS"
@@ -29,6 +93,18 @@
 				"selected_items":
 				[
 					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
 						"fe",
 						"Fetch: Manage remote files"
 					],
@@ -37,20 +113,12 @@
 						"Fetch"
 					],
 					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
 						"re",
 						"Package Control: Remove Package"
 					],
 					[
 						"ins",
 						"Package Control: Install Package"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
 					],
 					[
 						"fet",
@@ -99,10 +167,6 @@
 					[
 						"insta",
 						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Remove Package"
 					],
 					[
 						"brow",
@@ -146,102 +210,134 @@
 			},
 			"file_history":
 			[
-				"/D/local_sites/e-vasion/initializr/index.html",
-				"/D/local_sites/e-vasion/bootstrap/js/tests/index.html",
-				"/D/Projets Sublime/e-vasion.sublime-project",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
-				"/D/local_sites/e-vasion/initializr/js/plugins.js",
-				"/D/local_sites/template/initializr/js/vendor/bootstrap.js",
-				"/D/local_sites/e-vasion/initializr/js/main.js",
-				"/D/local_sites/e-vasion/initializr/css/antiskype.css",
-				"/D/local_sites/e-vasion/bootstrap/less/reset.less",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
-				"/D/local_sites/e-vasion/bootstrap/docs/getting-started.html",
-				"/D/local_sites/e-vasion/bootstrap/less/bootstrap.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive.less",
-				"/D/local_sites/e-vasion/initializr/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-utilities.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-navbar.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-768px-979px.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-767px-max.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-1200px-min.less",
-				"/D/local_sites/e-vasion/bootstrap/css/bootstrap.css",
-				"/D/local_sites/e-vasion/bootstrap/docs/examples/starter-template.html",
-				"/D/local_sites/e-vasion/bootstrap/docs/base-css.html",
-				"/D/local_sites/e-vasion/bootstrap/docs/assets/css/bootstrap-responsive.css",
-				"/D/local_sites/e-vasion/bootstrap/docs/assets/css/bootstrap.css",
-				"/D/local_sites/e-vasion/bootstrap/less/mixins.less",
-				"/D/local_sites/e-vasion/bootstrap/docs/examples/fluid.html",
-				"/D/local_sites/e-vasion/bootstrap/docs/examples/hero.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/html.sublime-snippet",
-				"/D/local_sites/e-vasion/index.html",
-				"/D/local_sites/e-vasion/index2.html",
-				"/D/local_sites/e-vasion/bootstrap/less/close.less",
-				"/D/local_sites/e-vasion/bootstrap/index2.html",
-				"/D/local_sites/e-vasion/bootstrap/index.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/HTML/html.sublime-snippet",
-				"/D/local_sites/SP Avocats/index-en.php",
-				"/D/local_sites/SP Avocats/index.php",
-				"/D/local_sites/SP Avocats/style/style.css",
-				"/D/local_sites/SP Avocats/base.php",
-				"/D/Downloads/Rxdzz.txt",
-				"/D/local_sites/e-vasion/INDEX",
-				"/D/local_sites/essai_design/docs/examples.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/D/local_sites/e-vasion/yii_app/protected/runtime/application.log",
+				"/D/local_sites/e-vasion/yii_app/protected/models/Revision.php",
+				"/D/local_sites/e-vasion/yii_app/protected/models/_base/BaseRevision.php",
+				"/D/local_sites/e-vasion/yii_app/protected/models/Voyage.php",
+				"/D/local_sites/e-vasion/_view de voyage.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyage/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/revision/view.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/revision/admin.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/revision/_search.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/revision/_form.php",
+				"/D/local_sites/YiiRoot/framework/i18n/CPhpMessageSource.php",
+				"/C/Users/Vincent/Downloads/CPhpMessageSource.patch",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/giix/messages/config.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/giix/INSTALL",
+				"/D/local_sites/e-vasion/yii_app/protected/controllers/VoyageController.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/_view.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/view.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyage/_view.php",
+				"/D/local_sites/e-vasion/yii_app/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/models/Voyagiste.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/layouts/column2.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/layouts/main.php",
+				"/D/local_sites/e-vasion/site/js/jquery.flexslider.js",
+				"/D/local_sites/e-vasion/yii_app/protected/controllers/SiteController.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php",
+				"/D/local_sites/e-vasion/yii_app/protected/components/Controller.php",
+				"/D/local_sites/ABAvocat/include/footer.inc.php",
+				"/D/local_sites/ABAvocat/mentions_legales.php",
+				"/D/local_sites/ABAvocat/index.php",
+				"/D/local_sites/ABAvocat/include/head.inc.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/views/yii_debug_toolbar.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/YiiDebugToolbar.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/YiiDebug.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/layouts/column1.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/site/pages/about.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/site/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/admin.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/_form.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/_search.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/greeting/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/components/ProxyComponent.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/views/panels/logging.php",
+				"/D/local_sites/e-vasion/yii_app/protected/config/console.php",
+				"/D/local_sites/e-vasion/yii_app/protected/config/test.php",
+				"/D/local_sites/e-vasion/site/css/flexslider.css",
+				"/D/local_sites/e-vasion/woothemes-FlexSlider-a9168b8/jquery.flexslider.js",
+				"/D/local_sites/e-vasion/woothemes-FlexSlider-a9168b8/flexslider.css",
+				"/D/local_sites/Lab/woothemes-FlexSlider-a9168b8/images/bg_direction_nav.png",
+				"/D/local_sites/e-vasion/site/less/mixins.less",
+				"/D/local_sites/e-vasion/site/less/component-animations.less",
+				"/D/local_sites/e-vasion/bootstrap/js/bootstrap-transition.js",
+				"/D/local_sites/e-vasion/site/less/variables.less",
+				"/D/local_sites/e-vasion/site/less/bootstrap.less",
+				"/D/local_sites/e-vasion/nivo-slider/demo/demo.html",
+				"/D/local_sites/e-vasion/site/css/nivo-slider/default.css",
+				"/D/local_sites/e-vasion/nivo-slider/themes/default/default.css",
+				"/D/local_sites/e-vasion/site/js/jquery.nivo.slider.js",
+				"/D/local_sites/e-vasion/site/css/nivo-slider.css",
+				"/D/local_sites/e-vasion/nivo-slider/demo/style.css",
+				"/D/local_sites/e-vasion/site/less/scaffolding.less",
+				"/D/local_sites/e-vasion/site/css/main.css",
+				"/D/local_sites/e-vasion/nivo-slider/jquery.nivo.slider.js",
+				"/D/local_sites/e-vasion/nivo-slider/nivo-slider.css",
+				"/D/local_sites/e-vasion/nivo-slider/themes/default/bullets.png",
+				"/D/local_sites/e-vasion/site/js/main.js",
+				"/D/local_sites/e-vasion/site/js/vendor/bootstrap.js",
+				"/D/local_sites/e-vasion/site/less/carousel.less",
+				"/D/local_sites/e-vasion/nivo-slider/themes/bar/bar.css",
+				"/D/local_sites/e-vasion/site/less/forms.less",
+				"/D/local_sites/e-vasion/site/less/navbar.less",
+				"/D/local_sites/e-vasion/site/css/bootstrap.css",
+				"/D/local_sites/e-vasion/site/less/flags32.less",
+				"/D/local_sites/e-vasion/site/less/hero-unit.less",
 				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-				"/D/local_sites/essai_design/less/bonjjour",
-				"/D/local_sites/essai_design/docs/index.html",
-				"/D/local_sites/essai_design/docs/scaffolding.html",
-				"/D/local_sites/essai_design/index.html",
-				"/D/wamp/www/SPAvocats/index.php",
-				"/D/local_sites/essai_design/docs/assets/css/bootstrap-responsive.css",
-				"/D/local_sites/essai_design/docs/assets/css/bootstrap.css",
-				"/D/local_sites/essai_design/less/accordion.less",
-				"/D/local_sites/essai_design/less/bootstrap.less",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/pixum.sublime-snippet",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
-				"/D/local_sites/essai_design/docs/components.html",
-				"/D/local_sites/essai_design/less/carousel.less",
-				"/D/local_sites/essai_design/less/buttons.less",
-				"/D/local_sites/essai_design/less/less.js",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/docs.css",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/bootstrap-responsive.css",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/bootstrap.css",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/js/google-code-prettify/prettify.css",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/js/google-code-prettify/prettify.js",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/index.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/Default (Windows).sublime-keymap",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/package-metadata.json",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowserCommand.py",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/README.md",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowserCommand.pyc",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.py",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/package-metadata.json",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/README.md",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.pyc",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremIpsum/Default (Windows).sublime-keymap",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremIpsum/Main.sublime-menu",
-				"/D/local_sites/twitter-bootstrap-857b8fb/package.json",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/examples.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
-				"/D/local_sites/twitter-bootstrap-857b8fb/css/bootstrap.css",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Preferences.sublime-settings",
-				"/D/local_sites/twitter-bootstrap-857b8fb/less/accordion.less",
-				"/D/local_sites/twitter-bootstrap-857b8fb/less/alerts.less",
-				"/D/local_sites/twitter-bootstrap-857b8fb/js/bootstrap-alert.js"
+				"/D/local_sites/e-vasion/site/css/flags32.css",
+				"/D/local_sites/e-vasion/site/less/bootstrap2.less",
+				"/D/local_sites/e-vasion/site/less/bootstrap_.less",
+				"/D/local_sites/e-vasion/site/less/dropdowns.less",
+				"/D/local_sites/e-vasion/site/css/flags16.css",
+				"/D/local_sites/e-vasion/site/less/sprites.less",
+				"/D/local_sites/e-vasion/ressources/icons/flags.css",
+				"/D/local_sites/e-vasion/bootstrap/css/bootstrap.css",
+				"/D/local_sites/e-vasion/site/css/bootstrap-responsive.css",
+				"/D/local_sites/e-vasion/site/.htaccess",
+				"/D/local_sites/e-vasion/bootstrap/less/tests/forms.html",
+				"/D/local_sites/e-vasion/site/less/buttons.less",
+				"/D/local_sites/e-vasion/site/less/button-groups.less",
+				"/D/local_sites/e-vasion/site/less/font-awesome-ie7.less",
+				"/D/local_sites/e-vasion/site/less/font-awesome.less",
+				"/C/Users/Vincent/AppData/Local/Temp/7zO12AA.tmp/stylesheet.css",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-768px-979px.less",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-1200px-min.less",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-767px-max.less",
+				"/D/local_sites/e-vasion/ressources/icons/font/fontello.svg",
+				"/D/local_sites/e-vasion/site/font/fontawesome-webfont.svg",
+				"/C/Users/Vincent/AppData/Local/Temp/7zE7E28.tmp/fontello.woff",
+				"/C/Users/Vincent/AppData/Local/Temp/7zE7E28.tmp/fontello.ttf",
+				"/C/Users/Vincent/AppData/Local/Temp/7zE7E28.tmp/fontello.svg",
+				"/C/Users/Vincent/AppData/Local/Temp/7zE7E28.tmp/fontello.eot",
+				"/D/local_sites/e-vasion/bootstrap/less/variables.less",
+				"/D/local_sites/e-vasion/FortAwesome-Font-Awesome-ee55c85/less/font-awesome-ie7.less",
+				"/D/local_sites/e-vasion/site/less/tests/navbar.html",
+				"/D/local_sites/e-vasion/site/less/navs.less",
+				"/D/local_sites/e-vasion/site/less/tests/css-tests.html",
+				"/D/local_sites/e-vasion/site/less/tests/forms.html",
+				"/D/local_sites/e-vasion/bootstrap/less/tests/navbar.html",
+				"/D/local_sites/e-vasion/site/less/tests/css-tests.css",
+				"/D/local_sites/e-vasion/bootstrap/less/tests/css-tests.css",
+				"/C/Users/Vincent/.ssh/github_rsa",
+				"/C/Users/Vincent/.ssh/github_rsa.pub",
+				"/D/local_sites/e-vasion/site/less/accordion.less",
+				"/D/local_sites/e-vasion/site/less/responsive-768px-979px.less",
+				"/D/local_sites/e-vasion/site/index.html",
+				"/D/local_sites/e-vasion/bootstrap/js/tests/index.html",
+				"/D/local_sites/e-vasion/site/css/bootstrap-responsive.min.css",
+				"/D/local_sites/e-vasion/site/css/bootstrap.min.css",
+				"/D/local_sites/e-vasion/bootstrap/less/accordion.less",
+				"/D/local_sites/e-vasion/bootstrap/docs/templates/layout.mustache",
+				"/D/local_sites/e-vasion/bootstrap/docs/templates/pages/index.mustache",
+				"/D/local_sites/e-vasion/bootstrap/docs/index.html",
+				"/D/local_sites/e-vasion/bootstrap/docs/javascript.html",
+				"/D/local_sites/e-vasion/bootstrap/docs/templates/pages/base-css.mustache",
+				"/D/local_sites/e-vasion/bootstrap/docs/templates/pages/javascript.mustache",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/local_sites/e-vasion/index.html",
+				"/D/local_sites/e-vasion/projet e-vasion.sublime-project"
 			],
 			"find":
 			{
@@ -252,6 +348,21 @@
 				"height": 0.0,
 				"where_history":
 				[
+					"D:\\local_sites\\e-vasion\\yii_app",
+					"D:\\local_sites\\e-vasion\\site\\",
+					"D:\\local_sites\\e-vasion\\site\\js\\vendor",
+					"D:\\local_sites\\e-vasion\\site\\less",
+					"D:\\local_sites\\e-vasion\\site",
+					"D:\\local_sites\\e-vasion\\bootstrap",
+					"D:\\local_sites\\e-vasion\\site\\less",
+					"D:\\local_sites\\e-vasion\\site\\",
+					"D:\\local_sites\\e-vasion\\site\\less",
+					"D:\\local_sites\\e-vasion\\nivo-slider",
+					"D:\\local_sites\\e-vasion\\site\\nivo-slider",
+					"D:\\local_sites\\e-vasion\\site\\less",
+					"D:\\local_sites\\e-vasion\\bootstrap",
+					"D:\\local_sites\\e-vasion\\site",
+					"D:\\local_sites\\e-vasion",
 					"C:\\Program Files\\Sublime Text 2"
 				]
 			},
@@ -260,17 +371,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"png",
-					"view",
-					"\"\n",
-					"f",
-					"	\n",
-					"lorem\n",
-					"\"\n",
-					"assets/",
-					"browser",
-					"ips",
-					"\"\n"
+					"image_to",
+					"theme_to_revision",
+					"image_to_desc",
+					"_to_",
+					"lieu_to_pays",
+					"pays_to_reg",
+					"link_log_sslog",
+					"sstheme_theme",
+					"theme_sstheme",
+					"link_theme_sstheme",
+					"type_avis",
+					"appreciation",
+					"_atr",
+					"_alg",
+					"_ata",
+					"_act",
+					"_dep",
+					"_dtr",
+					"_itr",
+					"_ltr",
+					"_ttr",
+					"_info",
+					"demande_d_info_info",
+					"_clt",
+					"_itd",
+					"itd",
+					"_dsv",
+					"_vlg",
+					"_voy",
+					"_rev",
+					"_avis",
+					"_blg",
+					"_bud",
+					"_ltp",
+					"_ptr",
+					"_dlg",
+					"_des",
+					"_img",
+					"_lgp",
+					"_olg",
+					"_llg",
+					"_tlg",
+					"_vst",
+					"_lgc",
+					"_lng",
+					"log_to_ss_log",
+					"_ltl",
+					"theme_to_ss_theme",
+					"_log",
+					"_org",
+					"_prix",
+					"_ttt",
+					"_the",
+					"_usr",
+					"_tav",
+					"appreciation_app",
+					"seq",
+					"seq_1",
+					"vst_seq",
+					"token_vst",
+					"revision",
+					"voyagev",
+					"VoyageVoy",
+					"+",
+					"CPhpMessageSource.php",
+					"CPhpMessageSource",
+					"giix.messages",
+					"span-19",
+					"CController",
+					"column1",
+					"column1.php",
+					"main.php",
+					"registerClientScripts",
+					"yii.debugtoolbar.css",
+					"css",
+					"login",
+					"bg_direction_nav.png",
+					"url(images/bg_direction_nav.png) no-repeat 0 0",
+					"slides",
+					"slide",
+					".modal-backdrop",
+					"in\"",
+					"in ",
+					" in ",
+					".in ",
+					".in",
+					".transition",
+					"fade",
+					"transition",
+					"height : 500px",
+					"height: 500px",
+					".box-shadow",
+					"shadow",
+					"img-",
+					"alt=\"\"",
+					"wrapper",
+					"fade",
+					"shadow",
+					"bullet",
+					"nivo",
+					"interval",
+					"ease-in-out",
+					"transition",
+					"fade",
+					"navb",
+					"url",
+					"search",
+					".search-query",
+					"height",
+					"brand",
+					"height",
+					"margin-bott",
+					"navbar-static-top",
+					"fix",
+					"navba",
+					"inputborder",
+					"@navbarBorder",
+					"class^=",
+					"flag",
+					".f32 .",
+					"iconSpritePath",
+					"clear-",
+					"clear",
+					"clear-",
+					"clear-r",
+					"clear-ri",
+					"clear-right",
+					"btn-large"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -278,6 +506,35 @@
 				"regex": false,
 				"replace_history":
 				[
+					"revision_x_theme",
+					"desc_x_img",
+					"_x_",
+					"lieu_x_pays",
+					"pays_x_reg",
+					"log_x_sslog",
+					"sstheme_x_theme",
+					"sstheme_theme",
+					"theme_sstheme",
+					"tbl_type_avis",
+					"tbl_appreciation",
+					"\n\ntbl_\ntbl_appreciation",
+					"",
+					"demande_info",
+					"",
+					"link_log_sslog",
+					"",
+					"link_theme_sstheme",
+					"",
+					"appreciation",
+					"",
+					" ",
+					"class=\"img-rounded\" alt=\"\"",
+					".flag32-",
+					"flag32-",
+					"mid",
+					"test",
+					"",
+					"../..",
 					"docs/assets/",
 					"docs/assets"
 				],
@@ -363,10 +620,10 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 262.0,
+			"side_bar_width": 241.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 936.0
+		"new_window_width": 1153.0
 	},
 	"windows":
 	[
@@ -376,6 +633,70 @@
 				"selected_items":
 				[
 					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"paddin",
+						"padding-bottom"
+					],
+					[
+						"padding-",
+						"padding-top:   (property)"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"li",
+						"lighten"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"font-",
+						"font-size:   (property)"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"fo",
+						"form"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
 						"l",
 						"LESS"
 					]
@@ -384,42 +705,74 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+					"file": "/D/local_sites/e-vasion/site/less/main.less",
 					"settings":
 					{
-						"buffer_size": 410,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "projet e-vasion.sublime-project",
-					"settings":
-					{
-						"buffer_size": 67,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 843,
+						"buffer_size": 3708,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+					"file": "/D/local_sites/e-vasion/site/index.html",
 					"settings":
 					{
-						"buffer_size": 855,
+						"buffer_size": 15952,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+					"file": "/D/local_sites/e-vasion/yii_app/protected/config/main.php",
 					"settings":
 					{
-						"buffer_size": 141,
+						"buffer_size": 2999,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/local_sites/e-vasion/site/js/jquery.nivo.slider.js",
+					"settings":
+					{
+						"buffer_size": 29183,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/local_sites/e-vasion/site/js/vendor/bootstrap.js",
+					"settings":
+					{
+						"buffer_size": 56216,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/local_sites/e-vasion/site/css/flexslider.css",
+					"settings":
+					{
+						"buffer_size": 3831,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/local_sites/e-vasion/ressources/bdd/evasion_20120929.sql",
+					"settings":
+					{
+						"buffer_size": 175180,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/local_sites/e-vasion/ressources/bdd/architect.sql",
+					"settings":
+					{
+						"buffer_size": 26495,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\nCREATE TABLE public.appreciation_app (\n\n);\nCOMMENT ON TABLE public.appreciation_app IS 'Appréciation suivant les notes (passable, magique, seuperbe, ...)';\n\n\nCREATE TABLE public.type_avis_tav (\n                id_tav INTEGER NOT NULL,\n                langue_id_tav VARCHAR(2) NOT NULL,\n                nom_type VARCHAR NOT NULL,\n                CONSTRAINT type_avis_tav_pk PRIMARY KEY (id_tav, langue_id_tav)\n);\nCOMMENT ON TABLE public.type_avis_tav IS 'Description du type d''avis : Groupe d''amis, seul, en couple, etc';\n\n\nCREATE TABLE public.user_usr (\n                id_usr INTEGER NOT NULL,\n                email_usr VARCHAR NOT NULL,\n                prenom_usr VARCHAR NOT NULL,\n                nom_usr VARCHAR NOT NULL,\n                pseudo_usr VARCHAR NOT NULL,\n                password_usr VARCHAR NOT NULL,\n                confirm_hash_usr VARCHAR NOT NULL,\n                ip_usr VARCHAR NOT NULL,\n                nmb_login_usr VARCHAR NOT NULL,\n                last_login_usr VARCHAR NOT NULL,\n                resetpassword_hash_usr VARCHAR NOT NULL,\n                pays_usr INTEGER NOT NULL,\n                langue_usr VARCHAR NOT NULL,\n                isconfirmed_usr BIT NOT NULL,\n                isblocked_usr BIT NOT NULL,\n                timestamp_usr VARCHAR NOT NULL,\n                CONSTRAINT user_usr_pk PRIMARY KEY (id_usr)\n);\nCOMMENT ON COLUMN public.user_usr.email_usr IS 'unique';\nCOMMENT ON COLUMN public.user_usr.ip_usr IS 'IP';\nCOMMENT ON COLUMN public.user_usr.resetpassword_hash_usr IS 'forgot passwd';\nCOMMENT ON COLUMN public.user_usr.timestamp_usr IS 'date creation';\n\n\nCREATE SEQUENCE public.theme_the_id_the_seq;\n\nCREATE TABLE public.theme_the (\n                id_the INTEGER NOT NULL DEFAULT nextval('public.theme_the_id_the_seq'),\n                desc_the VARCHAR(45),\n                type_the INTEGER NOT NULL,\n                CONSTRAINT theme_the_pk PRIMARY KEY (id_the)\n);\nCOMMENT ON COLUMN public.theme_the.type_the IS 'cf activité, destination etc';\n\n\nALTER SEQUENCE public.theme_the_id_the_seq OWNED BY public.theme_the.id_the;\n\nCREATE TABLE public.theme_to_ss_theme_ttt (\n                theme_id_parent_ttt INTEGER NOT NULL,\n                theme_id_enfant_ttt INTEGER NOT NULL,\n                CONSTRAINT theme_to_ss_theme_ttt_pk PRIMARY KEY (theme_id_parent_ttt, theme_id_enfant_ttt)\n);\n\n\nCREATE SEQUENCE public.prix_prix_id_prix_seq;\n\nCREATE TABLE public.prix_prix (\n                id_prix INTEGER NOT NULL DEFAULT nextval('public.prix_prix_id_prix_seq'),\n                prix_bas_prix INTEGER NOT NULL,\n                prix_haut_prix INTEGER NOT NULL,\n                devise_prix VARCHAR(3) NOT NULL,\n                duree_base_prix INTEGER NOT NULL,\n                base_nbe_personne_prix INTEGER NOT NULL,\n                timestamp_prix TIMESTAMP NOT NULL,\n                CONSTRAINT prix_prix_pk PRIMARY KEY (id_prix)\n);\nCOMMENT ON COLUMN public.prix_prix.prix_bas_prix IS 'Prix bas (pour type de prestation explicitée plus loin)';\nCOMMENT ON COLUMN public.prix_prix.duree_base_prix IS 'Durée de base pour prix donné (en jour)';\nCOMMENT ON COLUMN public.prix_prix.base_nbe_personne_prix IS 'champ = XXX ou Prix pour XXX personnes.';\n\n\nALTER SEQUENCE public.prix_prix_id_prix_seq OWNED BY public.prix_prix.id_prix;\n\nCREATE SEQUENCE public.organisation_org_id_org_seq;\n\nCREATE TABLE public.organisation_org (\n                id_org INTEGER NOT NULL DEFAULT nextval('public.organisation_org_id_org_seq'),\n                desc_org VARCHAR(45),\n                CONSTRAINT organisation_org_pk PRIMARY KEY (id_org)\n);\n\n\nALTER SEQUENCE public.organisation_org_id_org_seq OWNED BY public.organisation_org.id_org;\n\nCREATE SEQUENCE public.logement_log_id_log_seq;\n\nCREATE TABLE public.logement_log (\n                id_log INTEGER NOT NULL DEFAULT nextval('public.logement_log_id_log_seq'),\n                desc_log VARCHAR(45),\n                type_log INTEGER NOT NULL,\n                CONSTRAINT logement_log_pk PRIMARY KEY (id_log)\n);\n\n\nALTER SEQUENCE public.logement_log_id_log_seq OWNED BY public.logement_log.id_log;\n\nCREATE TABLE public.log_to_ss_log_ltl (\n                log_id_parent_ltl INTEGER NOT NULL,\n                log_id_enfant_ltl INTEGER NOT NULL,\n                CONSTRAINT log_to_ss_log_ltl_pk PRIMARY KEY (log_id_parent_ltl, log_id_enfant_ltl)\n);\n\n\nCREATE TABLE public.langue_lng (\n                id_lng VARCHAR(2) NOT NULL,\n                nom_francais_lng VARCHAR(255) NOT NULL,\n                native_name_lng VARCHAR(255) NOT NULL,\n                CONSTRAINT langue_lng_pk PRIMARY KEY (id_lng)\n);\n\n\nCREATE SEQUENCE public.voyagiste_vst_id_vst_seq;\n\nCREATE TABLE public.voyagiste_vst (\n                id_vst INTEGER NOT NULL DEFAULT nextval('public.voyagiste_vst_id_vst_seq'),\n                nom_voyagiste_vst VARCHAR(255) NOT NULL,\n                password_vst VARCHAR NOT NULL,\n                confirm_hash_vst VARCHAR NOT NULL,\n                ip_vst VARCHAR NOT NULL,\n                nmb_login_vst VARCHAR NOT NULL,\n                last_login_vst VARCHAR NOT NULL,\n                resetpasswd_hash_vst VARCHAR NOT NULL,\n                langue_communication_vst VARCHAR(2) NOT NULL,\n                pays_vst INTEGER NOT NULL,\n                email_contact_vst VARCHAR NOT NULL,\n                email_sales_vst VARCHAR NOT NULL,\n                telephone_contact_vst VARCHAR NOT NULL,\n                prenom_contact_vst VARCHAR NOT NULL,\n                nom_contact_vst VARCHAR NOT NULL,\n                type_vst INTEGER NOT NULL,\n                isconfirmed_vst BOOLEAN NOT NULL,\n                isblocked_vst BOOLEAN NOT NULL,\n                timestamp_vst TIMESTAMP NOT NULL,\n                token_vst VARCHAR NOT NULL,\n                CONSTRAINT voyagiste_vst_pk PRIMARY KEY (id_vst)\n);\nCOMMENT ON TABLE public.voyagiste_vst IS 'Table des voyagistes';\nCOMMENT ON COLUMN public.voyagiste_vst.type_vst IS 'Tour Operator ou Hotel ?';\n\n\nALTER SEQUENCE public.voyagiste_vst_id_vst_seq OWNED BY public.voyagiste_vst.id_vst;\n\nCREATE TABLE public.theme_langue_tlg (\n                the_id_tlg INTEGER NOT NULL,\n                lg_id_tlg VARCHAR(2) NOT NULL,\n                nom_theme_tlg VARCHAR NOT NULL,\n                CONSTRAINT theme_langue_tlg_pk PRIMARY KEY (the_id_tlg, lg_id_tlg)\n);\n\n\nCREATE TABLE public.log_langue_llg (\n                log_id_llg INTEGER NOT NULL,\n                lg_id_llg VARCHAR(2) NOT NULL,\n                nom_log_llg VARCHAR NOT NULL,\n                CONSTRAINT log_langue_llg_pk PRIMARY KEY (log_id_llg, lg_id_llg)\n);\n\n\nCREATE TABLE public.org_langue_olg (\n                org_id_olg INTEGER NOT NULL,\n                lg_id_olg VARCHAR(2) NOT NULL,\n                nom_org_olg VARCHAR NOT NULL,\n                CONSTRAINT org_langue_olg_pk PRIMARY KEY (org_id_olg, lg_id_olg)\n);\n\n\nCREATE TABLE public.langue_parlee_lgp (\n                id_voyagiste_lgp INTEGER NOT NULL,\n                id_langue_parlee_lgp VARCHAR(2) NOT NULL,\n                CONSTRAINT langue_parlee_lgp_pk PRIMARY KEY (id_voyagiste_lgp, id_langue_parlee_lgp)\n);\n\n\nCREATE TABLE public.image_img (\n                img_name_img VARCHAR(255) NOT NULL,\n                size_img VARCHAR(255) NOT NULL,\n                timestamp_img TIMESTAMP NOT NULL,\n                CONSTRAINT image_img_pk PRIMARY KEY (img_name_img)\n);\n\n\nCREATE SEQUENCE public.destination_des_id_des_seq;\n\nCREATE TABLE public.destination_des (\n                id_des INTEGER NOT NULL DEFAULT nextval('public.destination_des_id_des_seq'),\n                alpha2_des VARCHAR(2),\n                nom_francais_des VARCHAR(255),\n                type_des INTEGER,\n                CONSTRAINT destination_des_pk PRIMARY KEY (id_des)\n);\n\n\nALTER SEQUENCE public.destination_des_id_des_seq OWNED BY public.destination_des.id_des;\n\nCREATE TABLE public.dest_langue_dlg (\n                dest_id_dlg INTEGER NOT NULL,\n                lg_id_dlg VARCHAR(2) NOT NULL,\n                nom_dest_dlg VARCHAR NOT NULL,\n                nom_court_dlg VARCHAR NOT NULL,\n                desc_dlg VARCHAR,\n                CONSTRAINT dest_langue_dlg_pk PRIMARY KEY (dest_id_dlg, lg_id_dlg)\n);\nCOMMENT ON COLUMN public.dest_langue_dlg.desc_dlg IS 'Champ optionnel notamment pour les lieux.\n\nExemple :\nnom = Parc du Serengeti\nnom court = Serengeti\nDesc = Tanzanie';\n\n\nCREATE TABLE public.pays_to_reg_ptr (\n                des_id_pays_ptr INTEGER NOT NULL,\n                des_id_reg_ptr INTEGER NOT NULL,\n                CONSTRAINT pays_to_reg_ptr_pk PRIMARY KEY (des_id_pays_ptr, des_id_reg_ptr)\n);\n\n\nCREATE TABLE public.lieu_to_pays_ltp (\n                des_id_lieu_ltp INTEGER NOT NULL,\n                des_id_pays_ltp INTEGER NOT NULL,\n                CONSTRAINT lieu_to_pays_ltp_pk PRIMARY KEY (des_id_lieu_ltp, des_id_pays_ltp)\n);\n\n\nCREATE SEQUENCE public.budget_bud_id_bud_seq;\n\nCREATE TABLE public.budget_bud (\n                id_bud INTEGER NOT NULL DEFAULT nextval('public.budget_bud_id_bud_seq'),\n                desc_bud VARCHAR(45),\n                CONSTRAINT budget_bud_pk PRIMARY KEY (id_bud)\n);\n\n\nALTER SEQUENCE public.budget_bud_id_bud_seq OWNED BY public.budget_bud.id_bud;\n\nCREATE TABLE public.bud_langue_blg (\n                id_bud INTEGER NOT NULL,\n                lg_id_blg VARCHAR(2) NOT NULL,\n                nom_bud_blg VARCHAR NOT NULL,\n                CONSTRAINT bud_langue_blg_pk PRIMARY KEY (id_bud, lg_id_blg)\n);\n\n\nCREATE SEQUENCE public.avis_avis_id_avis_seq;\n\nCREATE TABLE public.avis_avis (\n                id_avis INTEGER NOT NULL DEFAULT nextval('public.avis_avis_id_avis_seq'),\n                user_id_avis INTEGER NOT NULL,\n                voy_id_avis INTEGER NOT NULL,\n                note_avis INTEGER NOT NULL,\n                type_avis INTEGER NOT NULL,\n                langue_avis VARCHAR(2) NOT NULL,\n                contenu_avis VARCHAR NOT NULL,\n                court_avis VARCHAR NOT NULL,\n                CONSTRAINT avis_avis_pk PRIMARY KEY (id_avis)\n);\n\n\nALTER SEQUENCE public.avis_avis_id_avis_seq OWNED BY public.avis_avis.id_avis;\n\nCREATE SEQUENCE public.revision_rev_revision_id_rev_seq;\n\nCREATE TABLE public.revision_rev (\n                revision_id_rev INTEGER NOT NULL DEFAULT nextval('public.revision_rev_revision_id_rev_seq'),\n                voy_id_rev INTEGER NOT NULL,\n                bud_id_rev INTEGER NOT NULL,\n                org_id_rev INTEGER NOT NULL,\n                duree_min_rev INTEGER,\n                duree_max_rev INTEGER,\n                prix_id_rev INTEGER NOT NULL,\n                avis_id_rev INTEGER NOT NULL,\n                email_sales_rev VARCHAR NOT NULL,\n                waiting_rev BIT,\n                valide_rev BIT NOT NULL,\n                timestamp_rev TIMESTAMP NOT NULL,\n                CONSTRAINT revision_rev_pk PRIMARY KEY (revision_id_rev)\n);\nCOMMENT ON TABLE public.revision_rev IS 'Tables des revisions/versions';\nCOMMENT ON COLUMN public.revision_rev.valide_rev IS '0 quand le voyage n''est pas validé = doit etre supprimé';\n\n\nALTER SEQUENCE public.revision_rev_revision_id_rev_seq OWNED BY public.revision_rev.revision_id_rev;\n\nCREATE SEQUENCE public.voyage_voy_id_voy_seq;\n\nCREATE TABLE public.voyage_voy (\n                id_voy INTEGER NOT NULL DEFAULT nextval('public.voyage_voy_id_voy_seq'),\n                voyagiste_id_voy INTEGER NOT NULL,\n                nom_voyage_voy VARCHAR NOT NULL,\n                note_voy VARCHAR NOT NULL,\n                latest_rev_voy INTEGER NOT NULL,\n                timestamp_voy TIMESTAMP NOT NULL,\n                CONSTRAINT voyage_voy_pk PRIMARY KEY (id_voy)\n);\nCOMMENT ON TABLE public.voyage_voy IS 'Table centrale, base des voyages';\nCOMMENT ON COLUMN public.voyage_voy.nom_voyage_voy IS 'Nom, destiné à l''identification pour le voyagiste';\n\n\nALTER SEQUENCE public.voyage_voy_id_voy_seq OWNED BY public.voyage_voy.id_voy;\n\nCREATE TABLE public.voyage_langue_vlg (\n                voy_id_vlg INTEGER NOT NULL,\n                lg_id_vlg VARCHAR(2) NOT NULL,\n                latest_desc_vlg INTEGER NOT NULL,\n                CONSTRAINT voyage_langue_vlg_pk PRIMARY KEY (voy_id_vlg, lg_id_vlg)\n);\n\n\nCREATE SEQUENCE public.description_voyage_dsv_id_dsv_seq;\n\nCREATE TABLE public.description_voyage_dsv (\n                id_dsv INTEGER NOT NULL DEFAULT nextval('public.description_voyage_dsv_id_dsv_seq'),\n                id_voy_dsv INTEGER NOT NULL,\n                id_lg_dsv VARCHAR(2) NOT NULL,\n                titre_voy_dsv VARCHAR NOT NULL,\n                paragraphe1 VARCHAR NOT NULL,\n                etc VARCHAR NOT NULL,\n                timestamp_dsv TIMESTAMP NOT NULL,\n                CONSTRAINT description_voyage_dsv_pk PRIMARY KEY (id_dsv)\n);\n\n\nALTER SEQUENCE public.description_voyage_dsv_id_dsv_seq OWNED BY public.description_voyage_dsv.id_dsv;\n\nCREATE TABLE public.image_to_desc_itd (\n                id_desc_itd INTEGER NOT NULL,\n                img_name_itd VARCHAR(255) NOT NULL,\n                img_legende_itd VARCHAR NOT NULL,\n                timestamp_itd VARCHAR NOT NULL,\n                CONSTRAINT image_to_desc_itd_pk PRIMARY KEY (id_desc_itd, img_name_itd)\n);\n\n\nCREATE SEQUENCE public.consultation_clt_id_clt_seq;\n\nCREATE TABLE public.consultation_clt (\n                id_clt INTEGER NOT NULL DEFAULT nextval('public.consultation_clt_id_clt_seq'),\n                adresseip_clt VARCHAR NOT NULL,\n                cookie_clt VARCHAR NOT NULL,\n                voy_id_clt INTEGER NOT NULL,\n                user_id_clt INTEGER NOT NULL,\n                timestamp_clt TIMESTAMP NOT NULL,\n                CONSTRAINT consultation_clt_pk PRIMARY KEY (id_clt)\n);\nCOMMENT ON TABLE public.consultation_clt IS 'Table des consultations des voyages';\n\n\nALTER SEQUENCE public.consultation_clt_id_clt_seq OWNED BY public.consultation_clt.id_clt;\n\nCREATE SEQUENCE public.demande_d_info_info_id_info_seq;\n\nCREATE TABLE public.demande_d_info_info (\n                id_info INTEGER NOT NULL DEFAULT nextval('public.demande_d_info_info_id_info_seq'),\n                adresseip_info VARCHAR NOT NULL,\n                voy_id_info INTEGER NOT NULL,\n                lg_id_info VARCHAR NOT NULL,\n                lg_interaction_info VARCHAR NOT NULL,\n                user_id_info INTEGER NOT NULL,\n                email_info VARCHAR NOT NULL,\n                telephone_info VARCHAR NOT NULL,\n                type_demande_info VARCHAR NOT NULL,\n                nom_info VARCHAR NOT NULL,\n                prenom_info VARCHAR NOT NULL,\n                commentaire_info VARCHAR NOT NULL,\n                preference_appel_info VARCHAR NOT NULL,\n                timezone_info VARCHAR NOT NULL,\n                timestamp_info TIMESTAMP NOT NULL,\n                CONSTRAINT demande_d_info_info_pk PRIMARY KEY (id_info)\n);\nCOMMENT ON TABLE public.demande_d_info_info IS 'Table rencensant les reservations/en savoir plus des usr';\nCOMMENT ON COLUMN public.demande_d_info_info.lg_interaction_info IS 'choix de la langue pour discuter';\nCOMMENT ON COLUMN public.demande_d_info_info.preference_appel_info IS 'Quand preferez vous etre appelé (matin, apres midi soir)';\n\n\nALTER SEQUENCE public.demande_d_info_info_id_info_seq OWNED BY public.demande_d_info_info.id_info;\n\nCREATE TABLE public.theme_to_revision_ttr (\n                the_id_ttr INTEGER NOT NULL,\n                revision_id_ttr INTEGER NOT NULL,\n                timestamp_ttr TIMESTAMP NOT NULL,\n                CONSTRAINT theme_to_revision_ttr_pk PRIMARY KEY (the_id_ttr, revision_id_ttr)\n);\n\n\nCREATE TABLE public.logement_to_revision_ltr (\n                log_id_ltr INTEGER NOT NULL,\n                revision_id_ltr INTEGER NOT NULL,\n                timestamp_ltr TIMESTAMP NOT NULL,\n                CONSTRAINT logement_to_revision_ltr_pk PRIMARY KEY (log_id_ltr, revision_id_ltr)\n);\n\n\nCREATE TABLE public.image_to_revision_itr (\n                id_rev_itr INTEGER NOT NULL,\n                img_name_itr VARCHAR(255) NOT NULL,\n                img_ordre_itr INTEGER NOT NULL,\n                img_ppale_itr BIT NOT NULL,\n                timestamp_itr TIMESTAMP NOT NULL,\n                CONSTRAINT image_to_revision_itr_pk PRIMARY KEY (id_rev_itr, img_name_itr)\n);\n\n\nCREATE TABLE public.destination_to_revision_dtr (\n                des_id_dtr INTEGER NOT NULL,\n                revision_id_dtr INTEGER NOT NULL,\n                timestamp_dtr TIMESTAMP NOT NULL,\n                CONSTRAINT destination_to_revision_dtr_pk PRIMARY KEY (des_id_dtr, revision_id_dtr)\n);\n\n\nCREATE TABLE public.depart_dep (\n                debut_fenetre_depart_dep DATE NOT NULL,\n                fin_fenetre_depart_dep DATE NOT NULL,\n                revision_id_dep INTEGER NOT NULL,\n                annuel_dep BIT NOT NULL,\n                timestamp_dep TIMESTAMP NOT NULL,\n                CONSTRAINT depart_dep_pk PRIMARY KEY (debut_fenetre_depart_dep, fin_fenetre_depart_dep, revision_id_dep)\n);\nCOMMENT ON COLUMN public.depart_dep.debut_fenetre_depart_dep IS 'Exemple voyage dispo du 15/03 ou 15/04 et du 20/06 au 20/07 : champ = 15/03 et 20/06';\nCOMMENT ON COLUMN public.depart_dep.annuel_dep IS 'dates de depart valables chaque année';\nCOMMENT ON COLUMN public.depart_dep.timestamp_dep IS 'date creation';\n\n\nCREATE SEQUENCE public.activite_act_id_act_seq;\n\nCREATE TABLE public.activite_act (\n                id_act INTEGER NOT NULL DEFAULT nextval('public.activite_act_id_act_seq'),\n                desc_act VARCHAR(45),\n                type_act INTEGER NOT NULL,\n                CONSTRAINT activite_act_pk PRIMARY KEY (id_act)\n);\nCOMMENT ON COLUMN public.activite_act.type_act IS 'Indique hierarchie de l''activité\nex : 0 = activité parent 1 = secondaire\n\n(sport nautiques - surf par ex)';\n\n\nALTER SEQUENCE public.activite_act_id_act_seq OWNED BY public.activite_act.id_act;\n\nCREATE TABLE public.act_to_ss_act_ata (\n                act_id_parent_ata INTEGER NOT NULL,\n                acti_id_enfant_ata INTEGER NOT NULL,\n                CONSTRAINT act_to_ss_act_ata_pk PRIMARY KEY (act_id_parent_ata, acti_id_enfant_ata)\n);\nCOMMENT ON TABLE public.act_to_ss_act_ata IS 'Lien entre activité et sous activités';\n\n\nCREATE TABLE public.act_langue_alg (\n                act_id_alg INTEGER NOT NULL,\n                lg_id_alg VARCHAR(2) NOT NULL,\n                nom_act_alg VARCHAR NOT NULL,\n                CONSTRAINT act_langue_alg_pk PRIMARY KEY (act_id_alg, lg_id_alg)\n);\n\n\nCREATE TABLE public.activite_to_revision_atr (\n                act_id_atr INTEGER NOT NULL,\n                revision_id_atr INTEGER NOT NULL,\n                timestamp_atr TIMESTAMP NOT NULL,\n                CONSTRAINT activite_to_revision_atr_pk PRIMARY KEY (act_id_atr, revision_id_atr)\n);\n\n\nALTER TABLE public.avis_avis ADD CONSTRAINT type_avis_tav_avis_avis_fk\nFOREIGN KEY (type_avis, langue_avis)\nREFERENCES public.type_avis_tav (id_tav, langue_id_tav)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.demande_d_info_info ADD CONSTRAINT user_usr_demande_d_info_info_fk\nFOREIGN KEY (user_id_info)\nREFERENCES public.user_usr (id_usr)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.avis_avis ADD CONSTRAINT user_usr_avis_avis_fk\nFOREIGN KEY (user_id_avis)\nREFERENCES public.user_usr (id_usr)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.consultation_clt ADD CONSTRAINT user_usr_consultation_clt_fk\nFOREIGN KEY (user_id_clt)\nREFERENCES public.user_usr (id_usr)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.theme_to_revision_ttr ADD CONSTRAINT theme_the_theme_to_revision_ttr_fk\nFOREIGN KEY (the_id_ttr)\nREFERENCES public.theme_the (id_the)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.theme_langue_tlg ADD CONSTRAINT theme_the_theme_langue_tlg_fk\nFOREIGN KEY (the_id_tlg)\nREFERENCES public.theme_the (id_the)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.theme_to_ss_theme_ttt ADD CONSTRAINT theme_the_theme_to_ss_theme_fk\nFOREIGN KEY (theme_id_parent_ttt)\nREFERENCES public.theme_the (id_the)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.theme_to_ss_theme_ttt ADD CONSTRAINT theme_the_theme_to_ss_theme_fk1\nFOREIGN KEY (theme_id_enfant_ttt)\nREFERENCES public.theme_the (id_the)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.revision_rev ADD CONSTRAINT prix_prix_revision_rev_fk\nFOREIGN KEY (prix_id_rev)\nREFERENCES public.prix_prix (id_prix)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.revision_rev ADD CONSTRAINT organisation_org_revision_rev_fk\nFOREIGN KEY (org_id_rev)\nREFERENCES public.organisation_org (id_org)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.org_langue_olg ADD CONSTRAINT organisation_org_org_langue_olg_fk\nFOREIGN KEY (org_id_olg)\nREFERENCES public.organisation_org (id_org)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.logement_to_revision_ltr ADD CONSTRAINT logement_log_logement_to_revision_ltr_fk\nFOREIGN KEY (log_id_ltr)\nREFERENCES public.logement_log (id_log)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.log_langue_llg ADD CONSTRAINT logement_log_log_langue_llg_fk\nFOREIGN KEY (log_id_llg)\nREFERENCES public.logement_log (id_log)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.log_to_ss_log_ltl ADD CONSTRAINT logement_log_log_to_ss_log_ltl_fk\nFOREIGN KEY (log_id_parent_ltl)\nREFERENCES public.logement_log (id_log)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.log_to_ss_log_ltl ADD CONSTRAINT logement_log_log_to_ss_log_ltl_fk1\nFOREIGN KEY (log_id_enfant_ltl)\nREFERENCES public.logement_log (id_log)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.langue_parlee_lgp ADD CONSTRAINT langue_lng_langue_parlee_lgp_fk\nFOREIGN KEY (id_langue_parlee_lgp)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.dest_langue_dlg ADD CONSTRAINT langue_lng_dest_langue_dlg_fk\nFOREIGN KEY (lg_id_dlg)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.bud_langue_blg ADD CONSTRAINT langue_lng_bud_langue_blg_fk\nFOREIGN KEY (lg_id_blg)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.org_langue_olg ADD CONSTRAINT langue_lng_org_langue_olg_fk\nFOREIGN KEY (lg_id_olg)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.log_langue_llg ADD CONSTRAINT langue_lng_log_langue_llg_fk\nFOREIGN KEY (lg_id_llg)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.theme_langue_tlg ADD CONSTRAINT langue_lng_theme_langue_tlg_fk\nFOREIGN KEY (lg_id_tlg)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.act_langue_alg ADD CONSTRAINT langue_lng_act_langue_alg_fk\nFOREIGN KEY (lg_id_alg)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.langue_communication_lgc ADD CONSTRAINT langue_lng_langue_communication_lgc_fk\nFOREIGN KEY (id_lgc)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.voyage_langue_vlg ADD CONSTRAINT langue_lng_voyage_langue_vlg_fk\nFOREIGN KEY (lg_id_vlg)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.voyagiste_vst ADD CONSTRAINT langue_lng_voyagiste_vst_fk\nFOREIGN KEY (langue_communication_vst)\nREFERENCES public.langue_lng (id_lng)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.langue_parlee_lgp ADD CONSTRAINT voyagiste_vst_langue_parlee_lgp_fk\nFOREIGN KEY (id_voyagiste_lgp)\nREFERENCES public.voyagiste_vst (id_vst)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.voyage_voy ADD CONSTRAINT voyagiste_vst_voyage_voy_fk\nFOREIGN KEY (voyagiste_id_voy)\nREFERENCES public.voyagiste_vst (id_vst)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.image_to_revision_itr ADD CONSTRAINT image_img_image_to_revision_itr\nFOREIGN KEY (img_name_itr)\nREFERENCES public.image_img (img_name_img)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.image_to_desc_itd ADD CONSTRAINT image_img_image_to_desc_itd_fk\nFOREIGN KEY (img_name_itd)\nREFERENCES public.image_img (img_name_img)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.destination_to_revision_dtr ADD CONSTRAINT destination_des_destination_to_revision_dtr_fk\nFOREIGN KEY (des_id_dtr)\nREFERENCES public.destination_des (id_des)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.lieu_to_pays_ltp ADD CONSTRAINT destination_des_lieu_to_pays_ltp_fk\nFOREIGN KEY (des_id_lieu_ltp)\nREFERENCES public.destination_des (id_des)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.lieu_to_pays_ltp ADD CONSTRAINT destination_des_lieu_to_pays_ltp_fk1\nFOREIGN KEY (des_id_pays_ltp)\nREFERENCES public.destination_des (id_des)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.pays_to_reg_ptr ADD CONSTRAINT destination_des_pays_to_reg_ptr_fk\nFOREIGN KEY (des_id_pays_ptr)\nREFERENCES public.destination_des (id_des)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.pays_to_reg_ptr ADD CONSTRAINT destination_des_pays_to_reg_ptr_fk1\nFOREIGN KEY (des_id_reg_ptr)\nREFERENCES public.destination_des (id_des)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.dest_langue_dlg ADD CONSTRAINT destination_des_dest_langues_dlg_fk\nFOREIGN KEY (dest_id_dlg)\nREFERENCES public.destination_des (id_des)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.revision_rev ADD CONSTRAINT budget_bud_revision_rev_fk\nFOREIGN KEY (bud_id_rev)\nREFERENCES public.budget_bud (id_bud)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.bud_langue_blg ADD CONSTRAINT budget_bud_bud_langue_blg_fk\nFOREIGN KEY (id_bud)\nREFERENCES public.budget_bud (id_bud)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.revision_rev ADD CONSTRAINT avis_avis_revision_rev_fk\nFOREIGN KEY (avis_id_rev)\nREFERENCES public.avis_avis (id_avis)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.activite_to_revision_atr ADD CONSTRAINT revision_rev_activite_to_revision_atr_fk\nFOREIGN KEY (revision_id_atr)\nREFERENCES public.revision_rev (revision_id_rev)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.depart_dep ADD CONSTRAINT revision_rev_depart_dep_fk\nFOREIGN KEY (revision_id_dep)\nREFERENCES public.revision_rev (revision_id_rev)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.destination_to_revision_dtr ADD CONSTRAINT revision_rev_destination_to_revision_dtr_fk\nFOREIGN KEY (revision_id_dtr)\nREFERENCES public.revision_rev (revision_id_rev)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.image_to_revision_itr ADD CONSTRAINT revision_rev_image_version_imv_fk\nFOREIGN KEY (id_rev_itr)\nREFERENCES public.revision_rev (revision_id_rev)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.logement_to_revision_ltr ADD CONSTRAINT revision_rev_logement_to_revision_ltr_fk\nFOREIGN KEY (revision_id_ltr)\nREFERENCES public.revision_rev (revision_id_rev)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.theme_to_revision_ttr ADD CONSTRAINT revision_rev_theme_to_revision_ttr_fk\nFOREIGN KEY (revision_id_ttr)\nREFERENCES public.revision_rev (revision_id_rev)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.voyage_voy ADD CONSTRAINT revision_rev_voyage_voy_fk\nFOREIGN KEY (latest_rev_voy)\nREFERENCES public.revision_rev (revision_id_rev)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.demande_d_info_info ADD CONSTRAINT voyage_voy_demande_d_info_info_fk\nFOREIGN KEY (voy_id_info)\nREFERENCES public.voyage_voy (id_voy)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.avis_avis ADD CONSTRAINT voyage_voy_avis_avis_fk\nFOREIGN KEY (voy_id_avis)\nREFERENCES public.voyage_voy (id_voy)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.consultation_clt ADD CONSTRAINT voyage_voy_consultation_clt_fk\nFOREIGN KEY (voy_id_clt)\nREFERENCES public.voyage_voy (id_voy)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.revision_rev ADD CONSTRAINT voyage_voy_revision_rev_fk\nFOREIGN KEY (voy_id_rev)\nREFERENCES public.voyage_voy (id_voy)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.voyage_langue_vlg ADD CONSTRAINT voyage_voy_voyage_langue_vlg_fk\nFOREIGN KEY (voy_id_vlg)\nREFERENCES public.voyage_voy (id_voy)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.description_voyage_dsv ADD CONSTRAINT voyage_langue_vlg_description_voyage_dsv_fk\nFOREIGN KEY (id_lg_dsv, id_voy_dsv)\nREFERENCES public.voyage_langue_vlg (lg_id_vlg, voy_id_vlg)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.voyage_langue_vlg ADD CONSTRAINT description_voyage_dsv_voyage_langue_vlg_fk\nFOREIGN KEY (latest_desc_vlg)\nREFERENCES public.description_voyage_dsv (id_dsv)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.image_to_desc_itd ADD CONSTRAINT description_voyage_dsv_image_to_desc_itd_fk\nFOREIGN KEY (id_desc_itd)\nREFERENCES public.description_voyage_dsv (id_dsv)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.activite_to_revision_atr ADD CONSTRAINT activite_act_activite_to_revision_atr_fk\nFOREIGN KEY (act_id_atr)\nREFERENCES public.activite_act (id_act)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.act_langue_alg ADD CONSTRAINT activite_act_act_langues_alg_fk\nFOREIGN KEY (act_id_alg)\nREFERENCES public.activite_act (id_act)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.act_to_ss_act_ata ADD CONSTRAINT activite_act_act_to_ss_act_ata_fk\nFOREIGN KEY (act_id_parent_ata)\nREFERENCES public.activite_act (id_act)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;\n\nALTER TABLE public.act_to_ss_act_ata ADD CONSTRAINT activite_act_act_to_ss_act_ata_fk1\nFOREIGN KEY (acti_id_enfant_ata)\nREFERENCES public.activite_act (id_act)\nON DELETE NO ACTION\nON UPDATE NO ACTION\nNOT DEFERRABLE;",
+					"settings":
+					{
+						"buffer_size": 30597,
 						"line_ending": "Windows"
 					}
 				}
@@ -427,15 +780,19 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 93.0,
+				"height": 375.0,
 				"selected_items":
 				[
 					[
-						"remo",
+						"rem",
 						"Package Control: Remove Package"
 					],
 					[
-						"rem",
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
 						"Package Control: Remove Package"
 					],
 					[
@@ -503,10 +860,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"pack",
-						"Package Control: Remove Package"
-					],
-					[
 						"brow",
 						"Preferences: Browse Packages"
 					],
@@ -531,7 +884,7 @@
 						"Set Syntax: CSS"
 					]
 				],
-				"width": 514.0
+				"width": 522.0
 			},
 			"console":
 			{
@@ -548,108 +901,134 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/D/Projets Sublime/e-vasion.sublime-workspace",
-				"/D/local_sites/e-vasion/projet e-vasion.sublime-workspace",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-				"/D/local_sites/ABAvocat/missing.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/D/local_sites/e-vasion/index.html",
-				"/D/local_sites/e-vasion/bootstrap/less/tests/navbar.html",
-				"/D/local_sites/e-vasion/bootstrap/less/tests/forms.html",
-				"/D/local_sites/e-vasion/initializr/index.html",
-				"/D/Projets Sublime/e-vasion.sublime-project",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
-				"/D/local_sites/e-vasion/bootstrap/js/tests/index.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
-				"/D/local_sites/e-vasion/initializr/js/plugins.js",
-				"/D/local_sites/template/initializr/js/vendor/bootstrap.js",
-				"/D/local_sites/e-vasion/initializr/js/main.js",
-				"/D/local_sites/e-vasion/initializr/css/antiskype.css",
-				"/D/local_sites/e-vasion/bootstrap/less/reset.less",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
-				"/D/local_sites/e-vasion/bootstrap/docs/getting-started.html",
-				"/D/local_sites/e-vasion/bootstrap/less/bootstrap.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive.less",
-				"/D/local_sites/e-vasion/initializr/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-utilities.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-navbar.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-768px-979px.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-767px-max.less",
-				"/D/local_sites/e-vasion/bootstrap/less/responsive-1200px-min.less",
-				"/D/local_sites/e-vasion/bootstrap/css/bootstrap.css",
-				"/D/local_sites/e-vasion/bootstrap/docs/examples/starter-template.html",
-				"/D/local_sites/e-vasion/bootstrap/docs/base-css.html",
-				"/D/local_sites/e-vasion/bootstrap/docs/assets/css/bootstrap-responsive.css",
-				"/D/local_sites/e-vasion/bootstrap/docs/assets/css/bootstrap.css",
-				"/D/local_sites/e-vasion/bootstrap/less/mixins.less",
-				"/D/local_sites/e-vasion/bootstrap/docs/examples/fluid.html",
-				"/D/local_sites/e-vasion/bootstrap/docs/examples/hero.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/html.sublime-snippet",
-				"/D/local_sites/e-vasion/index2.html",
-				"/D/local_sites/e-vasion/bootstrap/less/close.less",
-				"/D/local_sites/e-vasion/bootstrap/index2.html",
-				"/D/local_sites/e-vasion/bootstrap/index.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/HTML/html.sublime-snippet",
-				"/D/local_sites/SP Avocats/index-en.php",
-				"/D/local_sites/SP Avocats/index.php",
-				"/D/local_sites/SP Avocats/style/style.css",
-				"/D/local_sites/SP Avocats/base.php",
-				"/D/Downloads/Rxdzz.txt",
-				"/D/local_sites/e-vasion/INDEX",
-				"/D/local_sites/essai_design/docs/examples.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/D/local_sites/e-vasion/yii_app/protected/runtime/application.log",
+				"/D/local_sites/e-vasion/yii_app/protected/models/Revision.php",
+				"/D/local_sites/e-vasion/yii_app/protected/models/_base/BaseRevision.php",
+				"/D/local_sites/e-vasion/yii_app/protected/models/Voyage.php",
+				"/D/local_sites/e-vasion/_view de voyage.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyage/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/revision/view.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/revision/admin.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/revision/_search.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/revision/_form.php",
+				"/D/local_sites/YiiRoot/framework/i18n/CPhpMessageSource.php",
+				"/C/Users/Vincent/Downloads/CPhpMessageSource.patch",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/giix/messages/config.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/giix/INSTALL",
+				"/D/local_sites/e-vasion/yii_app/protected/controllers/VoyageController.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/_view.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/view.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyage/_view.php",
+				"/D/local_sites/e-vasion/yii_app/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/models/Voyagiste.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/layouts/column2.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/layouts/main.php",
+				"/D/local_sites/e-vasion/site/js/jquery.flexslider.js",
+				"/D/local_sites/e-vasion/yii_app/protected/controllers/SiteController.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php",
+				"/D/local_sites/e-vasion/yii_app/protected/components/Controller.php",
+				"/D/local_sites/ABAvocat/include/footer.inc.php",
+				"/D/local_sites/ABAvocat/mentions_legales.php",
+				"/D/local_sites/ABAvocat/index.php",
+				"/D/local_sites/ABAvocat/include/head.inc.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/views/yii_debug_toolbar.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/YiiDebugToolbar.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/YiiDebug.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/layouts/column1.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/site/pages/about.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/site/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/admin.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/_form.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/voyagiste/_search.php",
+				"/D/local_sites/e-vasion/yii_app/protected/views/greeting/index.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/components/ProxyComponent.php",
+				"/D/local_sites/e-vasion/yii_app/protected/extensions/yii-debug-toolbar/views/panels/logging.php",
+				"/D/local_sites/e-vasion/yii_app/protected/config/console.php",
+				"/D/local_sites/e-vasion/yii_app/protected/config/test.php",
+				"/D/local_sites/e-vasion/site/css/flexslider.css",
+				"/D/local_sites/e-vasion/woothemes-FlexSlider-a9168b8/jquery.flexslider.js",
+				"/D/local_sites/e-vasion/woothemes-FlexSlider-a9168b8/flexslider.css",
+				"/D/local_sites/Lab/woothemes-FlexSlider-a9168b8/images/bg_direction_nav.png",
+				"/D/local_sites/e-vasion/site/less/mixins.less",
+				"/D/local_sites/e-vasion/site/less/component-animations.less",
+				"/D/local_sites/e-vasion/bootstrap/js/bootstrap-transition.js",
+				"/D/local_sites/e-vasion/site/less/variables.less",
+				"/D/local_sites/e-vasion/site/less/bootstrap.less",
+				"/D/local_sites/e-vasion/nivo-slider/demo/demo.html",
+				"/D/local_sites/e-vasion/site/css/nivo-slider/default.css",
+				"/D/local_sites/e-vasion/nivo-slider/themes/default/default.css",
+				"/D/local_sites/e-vasion/site/js/jquery.nivo.slider.js",
+				"/D/local_sites/e-vasion/site/css/nivo-slider.css",
+				"/D/local_sites/e-vasion/nivo-slider/demo/style.css",
+				"/D/local_sites/e-vasion/site/less/scaffolding.less",
+				"/D/local_sites/e-vasion/site/css/main.css",
+				"/D/local_sites/e-vasion/nivo-slider/jquery.nivo.slider.js",
+				"/D/local_sites/e-vasion/nivo-slider/nivo-slider.css",
+				"/D/local_sites/e-vasion/nivo-slider/themes/default/bullets.png",
+				"/D/local_sites/e-vasion/site/js/main.js",
+				"/D/local_sites/e-vasion/site/js/vendor/bootstrap.js",
+				"/D/local_sites/e-vasion/site/less/carousel.less",
+				"/D/local_sites/e-vasion/nivo-slider/themes/bar/bar.css",
+				"/D/local_sites/e-vasion/site/less/forms.less",
+				"/D/local_sites/e-vasion/site/less/navbar.less",
+				"/D/local_sites/e-vasion/site/css/bootstrap.css",
+				"/D/local_sites/e-vasion/site/less/flags32.less",
+				"/D/local_sites/e-vasion/site/less/hero-unit.less",
 				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
-				"/D/local_sites/essai_design/less/bonjjour",
-				"/D/local_sites/essai_design/docs/index.html",
-				"/D/local_sites/essai_design/docs/scaffolding.html",
-				"/D/local_sites/essai_design/index.html",
-				"/D/wamp/www/SPAvocats/index.php",
-				"/D/local_sites/essai_design/docs/assets/css/bootstrap-responsive.css",
-				"/D/local_sites/essai_design/docs/assets/css/bootstrap.css",
-				"/D/local_sites/essai_design/less/accordion.less",
-				"/D/local_sites/essai_design/less/bootstrap.less",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/pixum.sublime-snippet",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
-				"/D/local_sites/essai_design/docs/components.html",
-				"/D/local_sites/essai_design/less/carousel.less",
-				"/D/local_sites/essai_design/less/buttons.less",
-				"/D/local_sites/essai_design/less/less.js",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/docs.css",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/bootstrap-responsive.css",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/css/bootstrap.css",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/js/google-code-prettify/prettify.css",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/assets/js/google-code-prettify/prettify.js",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/index.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/Default (Windows).sublime-keymap",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/package-metadata.json",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowserCommand.py",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/README.md",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/View In Browser/ViewInBrowserCommand.pyc",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.py",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/package-metadata.json",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/README.md",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremPixel/LoremPixel.pyc",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremIpsum/Default (Windows).sublime-keymap",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/LoremIpsum/Main.sublime-menu",
-				"/D/local_sites/twitter-bootstrap-857b8fb/package.json",
-				"/D/local_sites/twitter-bootstrap-857b8fb/docs/examples.html",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
-				"/D/local_sites/twitter-bootstrap-857b8fb/css/bootstrap.css",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
-				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Preferences.sublime-settings",
-				"/D/local_sites/twitter-bootstrap-857b8fb/less/accordion.less",
-				"/D/local_sites/twitter-bootstrap-857b8fb/less/alerts.less",
-				"/D/local_sites/twitter-bootstrap-857b8fb/js/bootstrap-alert.js"
+				"/D/local_sites/e-vasion/site/css/flags32.css",
+				"/D/local_sites/e-vasion/site/less/bootstrap2.less",
+				"/D/local_sites/e-vasion/site/less/bootstrap_.less",
+				"/D/local_sites/e-vasion/site/less/dropdowns.less",
+				"/D/local_sites/e-vasion/site/css/flags16.css",
+				"/D/local_sites/e-vasion/site/less/sprites.less",
+				"/D/local_sites/e-vasion/ressources/icons/flags.css",
+				"/D/local_sites/e-vasion/bootstrap/css/bootstrap.css",
+				"/D/local_sites/e-vasion/site/css/bootstrap-responsive.css",
+				"/D/local_sites/e-vasion/site/.htaccess",
+				"/D/local_sites/e-vasion/bootstrap/less/tests/forms.html",
+				"/D/local_sites/e-vasion/site/less/buttons.less",
+				"/D/local_sites/e-vasion/site/less/button-groups.less",
+				"/D/local_sites/e-vasion/site/less/font-awesome-ie7.less",
+				"/D/local_sites/e-vasion/site/less/font-awesome.less",
+				"/C/Users/Vincent/AppData/Local/Temp/7zO12AA.tmp/stylesheet.css",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-768px-979px.less",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-1200px-min.less",
+				"/D/local_sites/e-vasion/bootstrap/less/responsive-767px-max.less",
+				"/D/local_sites/e-vasion/ressources/icons/font/fontello.svg",
+				"/D/local_sites/e-vasion/site/font/fontawesome-webfont.svg",
+				"/C/Users/Vincent/AppData/Local/Temp/7zE7E28.tmp/fontello.woff",
+				"/C/Users/Vincent/AppData/Local/Temp/7zE7E28.tmp/fontello.ttf",
+				"/C/Users/Vincent/AppData/Local/Temp/7zE7E28.tmp/fontello.svg",
+				"/C/Users/Vincent/AppData/Local/Temp/7zE7E28.tmp/fontello.eot",
+				"/D/local_sites/e-vasion/bootstrap/less/variables.less",
+				"/D/local_sites/e-vasion/FortAwesome-Font-Awesome-ee55c85/less/font-awesome-ie7.less",
+				"/D/local_sites/e-vasion/site/less/tests/navbar.html",
+				"/D/local_sites/e-vasion/site/less/navs.less",
+				"/D/local_sites/e-vasion/site/less/tests/css-tests.html",
+				"/D/local_sites/e-vasion/site/less/tests/forms.html",
+				"/D/local_sites/e-vasion/bootstrap/less/tests/navbar.html",
+				"/D/local_sites/e-vasion/site/less/tests/css-tests.css",
+				"/D/local_sites/e-vasion/bootstrap/less/tests/css-tests.css",
+				"/C/Users/Vincent/.ssh/github_rsa",
+				"/C/Users/Vincent/.ssh/github_rsa.pub",
+				"/D/local_sites/e-vasion/site/less/accordion.less",
+				"/D/local_sites/e-vasion/site/less/responsive-768px-979px.less",
+				"/D/local_sites/e-vasion/site/index.html",
+				"/D/local_sites/e-vasion/bootstrap/js/tests/index.html",
+				"/D/local_sites/e-vasion/site/css/bootstrap-responsive.min.css",
+				"/D/local_sites/e-vasion/site/css/bootstrap.min.css",
+				"/D/local_sites/e-vasion/bootstrap/less/accordion.less",
+				"/D/local_sites/e-vasion/bootstrap/docs/templates/layout.mustache",
+				"/D/local_sites/e-vasion/bootstrap/docs/templates/pages/index.mustache",
+				"/D/local_sites/e-vasion/bootstrap/docs/index.html",
+				"/D/local_sites/e-vasion/bootstrap/docs/javascript.html",
+				"/D/local_sites/e-vasion/bootstrap/docs/templates/pages/base-css.mustache",
+				"/D/local_sites/e-vasion/bootstrap/docs/templates/pages/javascript.mustache",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+				"/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/local_sites/e-vasion/index.html",
+				"/D/local_sites/e-vasion/projet e-vasion.sublime-project"
 			],
 			"find":
 			{
@@ -660,6 +1039,21 @@
 				"height": 0.0,
 				"where_history":
 				[
+					"D:\\local_sites\\e-vasion\\yii_app",
+					"D:\\local_sites\\e-vasion\\site\\",
+					"D:\\local_sites\\e-vasion\\site\\js\\vendor",
+					"D:\\local_sites\\e-vasion\\site\\less",
+					"D:\\local_sites\\e-vasion\\site",
+					"D:\\local_sites\\e-vasion\\bootstrap",
+					"D:\\local_sites\\e-vasion\\site\\less",
+					"D:\\local_sites\\e-vasion\\site\\",
+					"D:\\local_sites\\e-vasion\\site\\less",
+					"D:\\local_sites\\e-vasion\\nivo-slider",
+					"D:\\local_sites\\e-vasion\\site\\nivo-slider",
+					"D:\\local_sites\\e-vasion\\site\\less",
+					"D:\\local_sites\\e-vasion\\bootstrap",
+					"D:\\local_sites\\e-vasion\\site",
+					"D:\\local_sites\\e-vasion",
 					"C:\\Program Files\\Sublime Text 2"
 				]
 			},
@@ -668,18 +1062,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"\"f",
-					"png",
-					"view",
-					"\"\n",
-					"f",
-					"	\n",
-					"lorem\n",
-					"\"\n",
-					"assets/",
-					"browser",
-					"ips",
-					"\"\n"
+					"theme_x_revision",
+					"theme_x",
+					"desc",
+					"lg",
+					"langue",
+					"langues",
+					"langue",
+					"revision_id",
+					"rev_id",
+					"rev_idlatest_rev_id",
+					"rev_id",
+					"id_rev",
+					"lg_interaction",
+					"id_lg",
+					"id_voy",
+					"description_voyage",
+					"latest_desc",
+					"latest_rev",
+					"revision_id",
+					"name",
+					"langue_comm",
+					"native_name",
+					"communi",
+					"comm",
+					"communication",
+					"id_lgc",
+					"_enfant",
+					"theme_enfant_id",
+					"theme_parent_id",
+					"log_enfant_id",
+					"log_parent_id",
+					"parent",
+					"acti_id_enfant",
+					"acti_id",
+					"act_id_parent",
+					"fin_fenetre_depart",
+					"debut_fenetre_depart",
+					"img_name",
+					"id_desc",
+					"titre_voy",
+					"nom_voyage",
+					"des_id_lieu",
+					"reg_des_id",
+					"des_id_reg",
+					"des_id_pays",
+					"id_dest",
+					"dest_id",
+					"img_name",
+					"id_langue_parlee",
+					"id_voyagiste",
+					"the_id",
+					"nom_voyagiste",
+					"langue_communication",
+					"log_id_enfant",
+					"log_id_parent",
+					"prix_haut",
+					"prix_bas",
+					"theme_id_enfant",
+					"theme_id_parent",
+					"id_bud",
+					"bud_id",
+					"image_to",
+					"theme_to_revision",
+					"image_to_desc",
+					"_to_",
+					"lieu_to_pays",
+					"pays_to_reg",
+					"link_log_sslog",
+					"sstheme_theme",
+					"theme_sstheme",
+					"link_theme_sstheme",
+					"type_avis",
+					"appreciation",
+					"_atr",
+					"_alg",
+					"_ata",
+					"_act",
+					"_dep",
+					"_dtr",
+					"_itr",
+					"_ltr",
+					"_ttr",
+					"_info",
+					"demande_d_info_info",
+					"_clt",
+					"_itd",
+					"itd",
+					"_dsv",
+					"_vlg",
+					"_voy",
+					"_rev",
+					"_avis",
+					"_blg",
+					"_bud",
+					"_ltp",
+					"_ptr",
+					"_dlg",
+					"_des",
+					"_img",
+					"_lgp",
+					"_olg",
+					"_llg",
+					"_tlg",
+					"_vst",
+					"_lgc",
+					"_lng",
+					"log_to_ss_log",
+					"_ltl",
+					"theme_to_ss_theme",
+					"_log",
+					"_org",
+					"_prix",
+					"_ttt",
+					"_the",
+					"_usr",
+					"_tav",
+					"appreciation_app",
+					"seq",
+					"seq_1",
+					"vst_seq",
+					"token_vst",
+					"revision",
+					"voyagev",
+					"VoyageVoy",
+					"+",
+					"CPhpMessageSource.php",
+					"CPhpMessageSource",
+					"giix.messages"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -687,6 +1197,79 @@
 				"regex": false,
 				"replace_history":
 				[
+					"revision_x_theme",
+					"descr",
+					"lg",
+					"rev_id",
+					"interaction_lg_idrevi_id",
+					"interaction_lg_id",
+					"lg_id",
+					"voy_id",
+					"desc_voyage",
+					"latest_desc_id",
+					"id_rev_id",
+					"id",
+					"nom",
+					"comm_langue_id",
+					"nom_vo",
+					"enfant_theme_id",
+					"parent_theme_id",
+					"enfant_log_id",
+					"parent_log_id",
+					"enfant_act_id",
+					"parent_act_id",
+					"fin_fenetre",
+					"debut_fenetre",
+					"img_id",
+					"desc_id",
+					"titre",
+					"nom",
+					"lieu_id",
+					"reg_id",
+					"reg_des_id",
+					"pays_id",
+					"dest_id",
+					"id",
+					"langue_parlee_id",
+					"voyagiste_id",
+					"theme_id",
+					"nom",
+					"langue_comm",
+					"log_enfant_id",
+					"log_parent_id",
+					"haut",
+					"bas",
+					"theme_enfant_id",
+					"theme_parent_id",
+					"revision_x_theme",
+					"desc_x_img",
+					"_x_",
+					"lieu_x_pays",
+					"pays_x_reg",
+					"log_x_sslog",
+					"sstheme_x_theme",
+					"sstheme_theme",
+					"theme_sstheme",
+					"tbl_type_avis",
+					"tbl_appreciation",
+					"\n\ntbl_\ntbl_appreciation",
+					"",
+					"demande_info",
+					"",
+					"link_log_sslog",
+					"",
+					"link_theme_sstheme",
+					"",
+					"appreciation",
+					"",
+					" ",
+					"class=\"img-rounded\" alt=\"\"",
+					".flag32-",
+					"flag32-",
+					"mid",
+					"test",
+					"",
+					"../..",
 					"docs/assets/",
 					"docs/assets"
 				],
@@ -699,28 +1282,83 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 7,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+							"file": "/D/local_sites/e-vasion/site/less/main.less",
 							"settings":
 							{
-								"buffer_size": 410,
+								"buffer_size": 3708,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										3338,
+										3338
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"syntax": "Packages/LESS/LESS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 387.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/local_sites/e-vasion/site/index.html",
+							"settings":
+							{
+								"buffer_size": 15952,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15268,
+										15268
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4230.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/local_sites/e-vasion/yii_app/protected/config/main.php",
+							"settings":
+							{
+								"buffer_size": 2999,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										437,
+										437
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
@@ -730,11 +1368,11 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "projet e-vasion.sublime-project",
+							"buffer": 3,
+							"file": "/D/local_sites/e-vasion/site/js/jquery.nivo.slider.js",
 							"settings":
 							{
-								"buffer_size": 67,
+								"buffer_size": 29183,
 								"regions":
 								{
 								},
@@ -747,7 +1385,9 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -756,24 +1396,24 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "index.html",
+							"buffer": 4,
+							"file": "/D/local_sites/e-vasion/site/js/vendor/bootstrap.js",
 							"settings":
 							{
-								"buffer_size": 843,
+								"buffer_size": 56216,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										601,
-										601
+										23492,
+										23496
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
@@ -784,25 +1424,24 @@
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+							"buffer": 5,
+							"file": "/D/local_sites/e-vasion/site/css/flexslider.css",
 							"settings":
 							{
-								"buffer_size": 855,
+								"buffer_size": 3831,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										855,
-										855
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/CSS/CSS.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -811,27 +1450,86 @@
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"file": "/C/Users/Vincent/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+							"buffer": 6,
+							"file": "/D/local_sites/e-vasion/ressources/bdd/evasion_20120929.sql",
 							"settings":
 							{
-								"buffer_size": 141,
+								"buffer_size": 175180,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										132,
-										132
+										27543,
+										27565
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+									"syntax": "Packages/SQL/SQL.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 16589.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/local_sites/e-vasion/ressources/bdd/architect.sql",
+							"settings":
+							{
+								"buffer_size": 26495,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5419,
+										5419
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/SQL/SQL.tmLanguage",
+									"tab_size": 8,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1605.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"settings":
+							{
+								"buffer_size": 30597,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23710,
+										23502
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/SQL/SQL.tmLanguage",
+									"tab_size": 8,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10349.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -874,7 +1572,7 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,848,34,8,986",
+			"position": "0,2,3,-1,-1,-1,-1,868,237,24,1406",
 			"replace":
 			{
 				"height": 62.0
@@ -916,18 +1614,18 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 262.0,
+			"side_bar_width": 235.0,
 			"status_bar_visible": true,
 			"window_id": 4,
-			"workspace_name": "/D/local_sites/e-vasion/projet e-vasion.sublime-project"
+			"workspace_name": "/D/Projets Sublime/e-vasion.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/D/local_sites/e-vasion/projet e-vasion.sublime-project",
 			"/D/Projets Sublime/e-vasion.sublime-project",
+			"/D/local_sites/e-vasion/projet e-vasion.sublime-project",
 			"/D/Projets Sublime/SP Avocats.sublime-project"
 		]
 	}
